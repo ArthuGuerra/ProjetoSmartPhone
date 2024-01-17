@@ -1,0 +1,15 @@
+/home/arthur/Documentos/Dio/ProjetoSmart/bin/Debug/net6.0/ProjetoSmart
+/home/arthur/Documentos/Dio/ProjetoSmart/bin/Debug/net6.0/ProjetoSmart.deps.json
+/home/arthur/Documentos/Dio/ProjetoSmart/bin/Debug/net6.0/ProjetoSmart.runtimeconfig.json
+/home/arthur/Documentos/Dio/ProjetoSmart/bin/Debug/net6.0/ProjetoSmart.dll
+/home/arthur/Documentos/Dio/ProjetoSmart/bin/Debug/net6.0/ref/ProjetoSmart.dll
+/home/arthur/Documentos/Dio/ProjetoSmart/bin/Debug/net6.0/ProjetoSmart.pdb
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.csproj.AssemblyReference.cache
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.AssemblyInfoInputs.cache
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.AssemblyInfo.cs
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.csproj.CoreCompileInputs.cache
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.dll
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ref/ProjetoSmart.dll
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.pdb
+/home/arthur/Documentos/Dio/ProjetoSmart/obj/Debug/net6.0/ProjetoSmart.genruntimeconfig.cache
